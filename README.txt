@@ -32,7 +32,7 @@ The user should clone the repository from GitHub and download Node.js. This appl
 ## Usage Information
 
 - Please open the link below and click. 
- [Deploy](https://tottomoe.github.io/ReactPortfolio/)
+ [Deploy](https://tottomoe.github.io/GreenPortfolio/)
 
 ---
 
@@ -42,7 +42,7 @@ The user should clone the repository from GitHub and download Node.js. This appl
 
 ### GitHub Profile:
 
-https://github.com/TottoMoe
+https://github.com/TottoMoe/GreenPortfolio
 
 ### Contact Me:
 
